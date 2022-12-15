@@ -1,0 +1,75 @@
+body{
+	background-color: #F5EBE0;
+	overflow-x: hidden;
+}
+
+p{
+	margin: 2px;
+}
+
+.header-title{
+	display: inline-block;
+	padding: 5px;
+}
+
+.Logo{
+	text-align:center;
+}
+
+.redditIcon{
+	size: 20px;
+	color: #F49D1A;
+}
+
+.footer{
+	text-align: center;
+}
+
+.mainContent{
+	margin-top: 50px;
+}
+
+.ImageContent{
+	display: inline;
+}
+
+.Image{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 775px;
+
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+}
+
+.ClassificationContent{
+	padding: 32px;
+	
+
+
+}
+
+.card{
+	text-align:center;
+	background-color: white;
+	 box-shadow: 0 4px 8px 0 rgba(1,0,0,1);
+  	transition: 0.3s;
+  	padding: 8px;
+}
+
+.cardTitle{
+	margin-top: 0;
+	text-align: center;
+
+}
+
+.NSFWPredict{
+	color: orange;
+	font-weight: bolder;
+}
+
+.SFWPredict{
+	color: blue;
+}
